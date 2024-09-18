@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     
   },
 });
-
+console.log("VA")
 // Define estilos específicos para la tabla en la cabecera
 const headerStyles = StyleSheet.create({
   headerTable: {
